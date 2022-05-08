@@ -1,10 +1,6 @@
 # ValutaTelegramBot
 ### __Installing__ 
- Bot works with variables from virtual environment. So to start bot working, you firstly need to set your __apikey__:
 
- ```sh
- export API_KEY=<your_api>
- ```
 You can run code with ```two variants```:
 1. Via .py file:
 - *Bot works with variables from virtual environment. So to start bot working, you firstly need to set your __apikey__*:
