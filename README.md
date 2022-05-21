@@ -28,4 +28,4 @@ $ sudo docker run -e API_KEY=<api_key> valuta
 Затестить бота можно, обратившись к `@GtbdsBot` в телеграме.
 
 Картинка работающего бота:
-![](src/image.png)
+![](src/image.gif)
